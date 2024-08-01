@@ -1,6 +1,6 @@
 {
   "name": "bun-lib-starter",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -22,20 +22,20 @@
   "files": ["dist"],
   "keywords": ["bun"],
   "license": "MIT",
-  "homepage": "https://github.com/maxam2017/bun-lib-starter#readme",
+  "homepage": "https://github.com/ivanoliverfabra/bun-lib-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxam2017/bun-lib-starter.git"
+    "url": "git+https://github.com/ivanoliverfabra/bun-lib-starter.git"
   },
-  "bugs": "https://github.com/maxam2017/bun-lib-starter/issues",
-  "author": "maxam2017 <whk0313@gmail.com>",
+  "bugs": "https://github.com/ivanoliverfabra/bun-lib-starter/issues",
+  "author": "Ivan Oliver <ivan@fabra.me>",
   "devDependencies": {
     "@biomejs/biome": "1.4.1",
     "@types/bun": "latest",
-    "dts-bundle-generator": "^9.2.1",
+    "dts-bundle-generator": "^9.5.1",
     "semantic-release": "^22.0.12",
-    "tsup": "^8.0.1",
-    "typescript": "^5.3.3"
+    "tsup": "^8.2.3",
+    "typescript": "^5.5.4"
   },
   "release": {
     "branches": ["main"]

@@ -1,5 +1,7 @@
 # bun-lib-starter
 
+## Find original repo [here](https://github.com/maxam2017/bun-lib-starter)
+
 ![Bun](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)
@@ -26,13 +28,13 @@ A starter template for node library built with bun.
 Use bun CLI to create a new project **(recommended)**
 
 ```sh
-bun create maxam2017/bun-lib-starter <your-project-name>
+bun create ivanoliverfabra/bun-lib-starter <your-project-name>
 ```
 
 or clone this repo and install manually
 
 ```sh
-git clone https://github.com/maxam2017/bun-lib-starter.git
+git clone https://github.com/ivanoliverfabra/bun-lib-starter.git
 
 cd bun-lib-starter
 
